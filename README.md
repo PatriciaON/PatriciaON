@@ -1,6 +1,6 @@
 # Título del Proyecto
 
-[Imagen de Portada](ImágenesDAW/DesarrolloWebImagen.jpg)
+![Imagen de Portada](ImágenesDAW/DesarrolloWebImagen.jpg)
 
 ## Descripción
 
